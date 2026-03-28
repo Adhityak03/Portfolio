@@ -680,8 +680,8 @@ function ResumeBlock({ title, children }) {
 // ─── CONTACT ────────────────────────────────────────────────────────────────
 
 const CONTACTS = [
-  { icon:"📧", type:"Email",    value:"adhitya@email.com",       href:"mailto:adhityaadhi10@email.com",          accent:"#00e5a0", note:"Best for opportunities" },
-  { icon:"💼", type:"LinkedIn", value:"linkedin.com/in/adhitya", href:"https://linkedin.com/in/adhitya",   accent:"#5b8af7", note:"Connect professionally" },
+  { icon:"📧", type:"Email",    value:"adhityaadhi10@email.com",       href:"mailto:adhityaadhi10@email.com",          accent:"#00e5a0", note:"Best for opportunities" },
+  { icon:"💼", type:"LinkedIn", value:"linkedin.com/in/adhitya-k", href:"www.linkedin.com/in/adhitya-k",   accent:"#5b8af7", note:"Connect professionally" },
   { icon:"🐙", type:"GitHub",   value:"Adhityak03",              href:"https://github.com/Adhityak03",     accent:"#f5a623", note:"See my code" },
 ];
 
